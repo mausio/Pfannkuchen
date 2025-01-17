@@ -5,7 +5,7 @@ How to make a german Pfannkuchen
 **Ingredients** (for ~5 pancakes):  
 - 200g flour  
 - 300ml milk  
-- 3 eggs  
+- 4 eggs  
 - A pinch of salt  
 - Butter or oil for frying  
 
