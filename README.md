@@ -1,5 +1,5 @@
 # Pfannkuchen
-How to make a german Pfannkuchen
+Demonstration of ChatGPT integration from a Python backend through creating, updating, and deleting this Pfannkuchen recipe. 
 
 **Ingredients** (for ~5 pancakes):  
 - 200g flour  
